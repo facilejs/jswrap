@@ -1,1 +1,1 @@
-document.getElementById("x09").innerHTML = "2019-2022.";
+document.getElementById("x09").innerHTML = "";
