@@ -1,1 +1,1 @@
-<script>consle.log('test');</script>
+<script>alert('test');</script>
